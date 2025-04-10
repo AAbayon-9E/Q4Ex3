@@ -1,0 +1,14 @@
+body{
+	background-color: aliceblue;
+}
+.container{
+	background-color: cadetblue;
+	padding: 30px;
+	margin: 40px;
+	border-radius: 10px;
+}
+.head{
+	padding: 40px;
+	margin: 30px;
+	text-shadow: 4px 3px 0px rgba(97,77,177,0.66);
+}
